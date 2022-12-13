@@ -4,6 +4,7 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsantos07/)
  
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-777-90&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-777-90&langs_count=8)](https://github.com/Alex-777-90/github-readme-stats)
 
 
