@@ -1,5 +1,5 @@
 ## Olá , sou o Alex 👋
-### Desenvolvedor web amador ,mas que sonha em trabalhar profissionalmente na área.
+### Desenvolvedor web amador 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsantos07/)
  
